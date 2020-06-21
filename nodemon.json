@@ -1,7 +1,7 @@
 {
     "env":{
         "MONGO_USER":"product",
-        "MONGO_PASSWORD":"IfHPnBRMsLTSliiO",
+        "MONGO_PASSWORD":"h59w1qvVhBMOt4bl",
         "MONGO_DEFAULT_DATABASE":"shop",
         "STRIPE_KEY":"sk_test_51GrhsaJcrEZwdkO9aRuEi7UMK38ZYQsVAgDGI6hDgT3ScZafDXrCZF8bUxRcscWJ7gf4DOVuKLhAynv2etIycgtT0046UXbvGv"
     }
