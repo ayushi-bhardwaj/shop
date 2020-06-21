@@ -1,0 +1,5 @@
+::1 - - [21/Jun/2020:07:42:12 +0000] "GET /admin/add-product HTTP/1.1" 200 - "http://localhost:3000/admin/products" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36"
+::1 - - [21/Jun/2020:07:42:12 +0000] "GET /css/main.css HTTP/1.1" 304 - "http://localhost:3000/admin/add-product" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36"
+::1 - - [21/Jun/2020:07:42:12 +0000] "GET /css/forms.css HTTP/1.1" 304 - "http://localhost:3000/admin/add-product" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36"
+::1 - - [21/Jun/2020:07:42:12 +0000] "GET /css/product.css HTTP/1.1" 304 - "http://localhost:3000/admin/add-product" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36"
+::1 - - [21/Jun/2020:07:42:12 +0000] "GET /js/main.js HTTP/1.1" 304 - "http://localhost:3000/admin/add-product" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36"
